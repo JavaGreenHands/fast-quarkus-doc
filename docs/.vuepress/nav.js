@@ -10,6 +10,7 @@ module.exports =
             text: '了解更多',
             items:[
                 { text: '关于我们', link: '/about/about.md' },
+                { text: '版本计划', link: '/about/version.md' },
 
             ]
         },
