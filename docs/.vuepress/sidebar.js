@@ -40,21 +40,21 @@ module.exports = [
                 children: [
                     {
                         title: '上传下载',   // 必要的
-                        path: '/guide/other',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+                        path: '/guide/upload',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
                         collapsable: false, // 可选的, 默认值是 true,
                         sidebarDepth: 1,    // 可选的, 默认值是 1
 
                     },
                     {
                         title: '静态资源支持',   // 必要的
-                        path: '/guide/other',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+                        path: '/guide/staticResource',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
                         collapsable: false, // 可选的, 默认值是 true,
                         sidebarDepth: 1,    // 可选的, 默认值是 1
 
                     },
                     {
                         title: '权限控制',   // 必要的
-                        path: '/guide/other',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+                        path: '/guide/rbac',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
                         collapsable: false, // 可选的, 默认值是 true,
                         sidebarDepth: 1,    // 可选的, 默认值是 1
                         children: [

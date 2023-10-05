@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /img/home.jpg
+heroImage: /img/logo.jpg
 heroText: Fast-Quarkus文档
 tagline: 一款基于Quarkus框架的Java云原生应用
 actionText: 快速上手 →

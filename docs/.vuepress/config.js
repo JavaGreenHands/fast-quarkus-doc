@@ -2,7 +2,8 @@ const nav = require('./nav.js')
 const sidebar = require('./sidebar.js')
 module.exports = {
     title: 'Fast-Quarkus 文档',
-    description: 'Just playing around',
+    description: 'Fast-Quarkus 文档',
+    base: '/fast-quarkus-site/',
     themeConfig: {
         // logo 配置
         logo: '/img/logo.jpg',
